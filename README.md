@@ -1,7 +1,7 @@
 ## Welcome to страничка
 
 [тут очень важная ссылка](https://docs.google.com/forms/d/e/1FAIpQLSdXie1BfIsWN8e-oOZ1JLr1tRkBfFLCjeHQvp812VCgit-iIg/viewform) на которую обязательно надо кликнуть
-
+ссылка правда важная
 
 
 ### кликни на [ссылку](https://docs.google.com/forms/d/e/1FAIpQLSdXie1BfIsWN8e-oOZ1JLr1tRkBfFLCjeHQvp812VCgit-iIg/viewform) и разошли друзьям

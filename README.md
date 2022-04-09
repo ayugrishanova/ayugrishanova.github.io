@@ -5,6 +5,7 @@
 
 
 ### кликни на [ссылку](https://docs.google.com/forms/d/e/1FAIpQLSdXie1BfIsWN8e-oOZ1JLr1tRkBfFLCjeHQvp812VCgit-iIg/viewform) и разошли друзьям
+# Это **НЕ** вирус!
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 

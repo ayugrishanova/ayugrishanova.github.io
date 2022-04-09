@@ -11,17 +11,15 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 ```markdown
 Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+# хочу пару по проге в понедельник второ й парой
+## потому что мне
+### было бы удобно
 
-- Bulleted
-- List
+- потому что я хочу спать в субботу
+- причина 2
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
+**ууу страшна** and _красиво_ and `print('hello world')` text
 
 [Link](url) and ![Image](src)
 ```
